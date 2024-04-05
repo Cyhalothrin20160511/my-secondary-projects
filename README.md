@@ -1,4 +1,4 @@
-# Welcome to My Secondary Projects Wonderland! 🚀
+# Welcome to My Projects Wonderland! 🚀
 
 Hello, fellow code explorer! 👋 Step into my whimsical corner of GitHub, where secondary projects roam free and creativity knows no bounds! Picture it as a digital playground where coding dreams take flight – and occasionally stumble over their own syntax. 😄
 
